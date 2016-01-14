@@ -18,7 +18,7 @@ l'enllaçador, el qual es pot interpretar directament amb l'ordinador
 El concepte de __màquina virtual__ sorgeix amb l'objectiu de facilitar el
 desenvolupament de compiladors que generen codi per a diferents processadors.
 
-La compilació consta de __dos fases__:  
+La compilació consta de dos fases:  
 
 * La primera parteix del codi font a un llenguatge intermedi obtenit un 
 programa equivalent amb un menor nivell d'abstracció que l'original i que no
